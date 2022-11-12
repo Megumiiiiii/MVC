@@ -56,6 +56,6 @@ sudo apt update && sudo apt install screen && sudo apt-get install build-essenti
 
 echo -e "\e[1m\e[32m4. Download bahan... \e[0m" && sleep 1
 wget https://raw.githubusercontent.com/heshuchao/space-mining-guide/main/mvc.conf
-wget https://raw.githubusercontent.com/heshuchao/space-mining-guide/main/install-node.sh && chmod 777 chmod 777 ./install-node.sh
+wget https://raw.githubusercontent.com/heshuchao/space-mining-guide/main/install-node.sh && chmod 777 ./install-node.sh
 
 echo '╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬ </SUDAH> ╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬'
